@@ -7,4 +7,4 @@ end
 
 #display_rainbow
 
-puts colors[1]
+puts #{colors[0]}
