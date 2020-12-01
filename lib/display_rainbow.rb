@@ -7,4 +7,4 @@ end
 
 #display_rainbow
 
-puts #{colors[0]}
+puts "Color :#{colors[0]}""
