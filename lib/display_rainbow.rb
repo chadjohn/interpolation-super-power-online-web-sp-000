@@ -7,4 +7,6 @@ end
 
 #display_rainbow
 
-puts "Color :#{colors[0]}""
+red = colors[0]
+
+puts "Color :#{red[0]}""
